@@ -1,15 +1,15 @@
-Package: io.github.nchugget.sleekunlock9
-Version: 0.0.1
+Package: io.github.nchugget.sleekunlock9_0.0.1-5+debug_iphoneos-arm
+Version: 0.0.1-5+debug
 Architecture: iphoneos-arm
 Maintainer: James Hutchinson <jameshutchinson1337@gmail.com>
-Depends: MobileSubstrate
-Filename: debs//io.github.nchugget.sleekunlock9.deb
+Depends: 
+Filename: /io.github.nchugget.sleekunlock9_0.0.1-5+debug_iphoneos-arm.deb 
 Size: 3964
 MD5sum: 1A8138E15538F13ABEA24247398BBB30
 SHA1: 460CB3760BC3AB20F020876140374096909CC969
-SHA256: af11c2e485ccf5abdba9ae59f77b2413eff9c51b15ddb62b0d1239347fcb6dd9
+SHA256: AF11C2E485CCF5ABDBA9AE59F77B2413EFF9C51B15DDB62B0D1239347FCB6DD9
 Section: Tweaks
-Description: tweak
+Description: Speeds and smoothens the unlocking animation, and keeps others at normal speeds
 Author: James Hutchinson <jameshutchinson1337@gmail.com>
 Depiction: htts://nchugget.github.io/depic/SleekUnlock9/index.html
 Name: SleekUnlock9
