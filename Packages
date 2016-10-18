@@ -1,8 +1,8 @@
 Package: io.github.nchugget.sleekunlock9
-Version: 0.0.1-5+debug
+Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: James Hutchinson <jameshutchinson1337@gmail.com>
-Filename: /io.github.nchugget.sleekunlock9_0.0.1
+Filename: /io.github.nchugget.sleekunlock9.deb
 Size: 3964
 MD5sum: 1A8138E15538F13ABEA24247398BBB30
 SHA1: 460CB3760BC3AB20F020876140374096909CC969
