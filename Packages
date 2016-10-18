@@ -1,15 +1,15 @@
-Package: io.github.nchugget.sleekunlock9_0.0.1-5+debug_iphoneos-arm
+Package: io.github.nchugget.sleekunlock9
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: James Hutchinson <jameshutchinson1337@gmail.com>
 Depends: MobileSubstrate
-Filename: debs//io.github.nchugget.sleekunlock9_0.0.1-5+debug_iphoneos-arm.deb
+Filename: debs//io.github.nchugget.sleekunlock9.deb
 Size: 3964
 MD5sum: 1A8138E15538F13ABEA24247398BBB30
 SHA1: 460CB3760BC3AB20F020876140374096909CC969
-SHA256: 	af11c2e485ccf5abdba9ae59f77b2413eff9c51b15ddb62b0d1239347fcb6dd9
+SHA256: af11c2e485ccf5abdba9ae59f77b2413eff9c51b15ddb62b0d1239347fcb6dd9
 Section: Tweaks
-Description: <tweak>
+Description: tweak
 Author: James Hutchinson <jameshutchinson1337@gmail.com>
-Depiction: http://decimation.github.io/Depic/<depicfoldername>/index.html
-Name: Tweakname
+Depiction: htts://nchugget.github.io/depic/SleekUnlock9/index.html
+Name: SleekUnlock9
