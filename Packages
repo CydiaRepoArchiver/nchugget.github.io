@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: James Hutchinson <jameshutchinson1337@gmail.com>
 Filename: /io.github.nchugget.sleekunlock9.deb
 Size: 3964
-MD5sum: 1A8138E15538F13ABEA24247398BBB30
-SHA1: 460CB3760BC3AB20F020876140374096909CC969
-SHA256: AF11C2E485CCF5ABDBA9AE59F77B2413EFF9C51B15DDB62B0D1239347FCB6DD9
+MD5sum: 1a8138e15538f13abea24247398bbb30
+SHA1: 460cb3760bc3ab20f020876140374096909cc969
+SHA256: af11c2e485ccf5abdba9ae59f77b2413eff9c51b15ddb62b0d1239347fcb6dd9
 Section: Tweaks
 Description: Speeds and smoothens the unlocking animation, and keeps others at normal speeds
 Author: James Hutchinson <jameshutchinson1337@gmail.com>
