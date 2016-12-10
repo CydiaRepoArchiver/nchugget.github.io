@@ -19,9 +19,9 @@ Architecture: iphoneos-arm
 Maintainer: James Hutchinson <jameshutchinson1337@gmail.com>
 Filename: /io.github.nchugget.nobanplz_1.1-2+debug_iphoneos-arm.deb
 Size: 240162
-MD5sum: 2CF75C704BAE55694BD48E52BB84821D
-SHA1: 76FFDD8D628214B0E5D234A741C694FB373A2532
-SHA256: FA71BE35931496C4FEC2B8F5B394D20E022DE3D6D87E8CB2EAC6EB81A575F42C
+MD5sum: 2cf75c704bae55694bd48e52bb84821d
+SHA1: 76ffdd8d628214b0e5d234a741c694fb373a2532
+SHA256: fa71be35931496c4fec2b8f5b394d20e022de3d6d87e8cb2eac6eb81a575f42c
 Section: Tweaks
 Description: What Rishanan should of made in the first place.
 Author: James Hutchinson <jameshutchinson1337@gmail.com>
