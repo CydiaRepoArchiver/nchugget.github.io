@@ -12,3 +12,18 @@ Description: Speeds and smoothens the unlocking animation, and keeps others at n
 Author: James Hutchinson <jameshutchinson1337@gmail.com>
 Depiction: htts://nchugget.github.io/depic/SleekUnlock9/index.html
 Name: SleekUnlock9
+
+Package: io.github.nchugget.nobanplz
+Version: 1.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: James Hutchinson <jameshutchinson1337@gmail.com>
+Filename: /io.github.nchugget.nobanplz_1.1-2+debug_iphoneos-arm.deb
+Size: 240162
+MD5sum: 2CF75C704BAE55694BD48E52BB84821D
+SHA1: 76FFDD8D628214B0E5D234A741C694FB373A2532
+SHA256: FA71BE35931496C4FEC2B8F5B394D20E022DE3D6D87E8CB2EAC6EB81A575F42C
+Section: Tweaks
+Description: What Rishanan should of made in the first place.
+Author: James Hutchinson <jameshutchinson1337@gmail.com>
+Depiction: htts://nchugget.github.io/depic/SleekUnlock9/index.html
+Name: NoBanPlz
