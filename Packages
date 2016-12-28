@@ -14,7 +14,7 @@ Depiction: htts://nchugget.github.io/depic/SleekUnlock9/index.html
 Name: SleekUnlock9
 
 Package: io.github.nchugget.nobanplz
-Version: 1.1-2+debug
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: James Hutchinson <jameshutchinson1337@gmail.com>
 Filename: /io.github.nchugget.nobanplz_1.1-2+debug_iphoneos-arm.deb
@@ -27,3 +27,18 @@ Description: What Rishanan should of made in the first place.
 Author: James Hutchinson <jameshutchinson1337@gmail.com>
 Depiction: htts://nchugget.github.io/depic/SleekUnlock9/index.html
 Name: NoBanPlz
+
+Package: io.github.nchugget.sleeknbouncy10
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: James Hutchinson <jameshutchinson1337@gmail.com>
+Filename: /io.github.nchugget.sleeknbouncy10_1.0-1+debug_iphoneos-arm.deb
+Size: 122880
+MD5sum: 3eb932821c93380c781da6d8cc5e9544
+SHA1: 255ef9b78fc12f4054473e23b003809a32d48d04
+SHA256: bad8d8871c23609bd5dcf0ec8212f95035dc2972ac1553079589ff80034973a0
+Section: Tweaks
+Description: Bouncy ported to iOS 10
+Author: James Hutchinson <jameshutchinson1337@gmail.com>
+Depiction: htts://nchugget.github.io/depic/SleekUnlock9/index.html
+Name: Sleek'n'Bouncy10
