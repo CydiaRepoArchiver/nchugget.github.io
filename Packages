@@ -34,9 +34,9 @@ Architecture: iphoneos-arm
 Maintainer: James Hutchinson <jameshutchinson1337@gmail.com>
 Filename: /io.github.nchugget.sleeknbouncy10_1.1-1+debug_iphoneos-arm.deb
 Size: 126976
-MD5sum: F1E2F5BDACC8B767C077DF1EF46CD856
-SHA1: CD8A4BC802C79D390F8E80449E77B27EDAE5B52F
-SHA256: 617F153926908EADB18F69280AE6E2596EADFC2E495E39BB57B8BCA2CC71A6EB
+MD5sum: f1e2f5bdacc8b767c077df1ef46cd856
+SHA1: cd8a4bc802c79d390f8e80449e77b27edae5b52f
+SHA256: 617f153926908eadb18f69280ae6e2596eadfc2e495e39bb57b8bca2cc71a6eb
 Section: Sleek: Animations
 Description: Bouncy ported to iOS 10
 Author: James Hutchinson <jameshutchinson1337@gmail.com>
