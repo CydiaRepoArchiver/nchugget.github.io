@@ -29,14 +29,14 @@ Depiction: htts://nchugget.github.io/depic/SleekUnlock9/index.html
 Name: NoBanPlz
 
 Package: io.github.nchugget.sleeknbouncy10
-Version: 1.2
+Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: James Hutchinson <jameshutchinson1337@gmail.com>
-Filename: /io.github.nchugget.sleeknbouncy10_1.2-1+debug_iphoneos-arm.deb
+Filename: /io.github.nchugget.sleeknbouncy10_1.0-1+debug_iphoneos-arm.deb
 Size: 122882
-MD5sum: 3537edc60857cd6bdc35779cfaee014b
-SHA1: 837b5a2d5d915320e58cb29044fcbcf877ad04c9
-SHA256: 10a65760802131e10f4b62af5b13b98a7fca5cb78ca1553daa24a8c18c00e6a0
+MD5sum: 3eb932821c93380c781da6d8cc5e9544
+SHA1: 255ef9b78fc12f4054473e23b003809a32d48d04
+SHA256: bad8d8871c23609bd5dcf0ec8212f95035dc2972ac1553079589ff80034973a0
 Section: Sleek: Animations
 Description: Bouncy ported to iOS 10, contact me if you wish to help add new animations to my repo!
 Author: James Hutchinson <jameshutchinson1337@gmail.com>
