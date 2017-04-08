@@ -44,14 +44,14 @@ Depiction: htts://nchugget.github.io/depic/SleekUnlock9/index.html
 Name: Sleek'n'Bouncy10 - Thanks EAP :)
 
 Package: io.github.nchugget.sleeknbouncy8
-Version: 1.2-1+debug
+Version: 1.2-2+debug
 Architecture: iphoneos-arm
 Maintainer: James Hutchinson <jameshutchinson1337@gmail.com>
-Filename: /io.github.nchugget.sleeknbouncy8_1.2-1+debug_iphoneos-arm.deb
-Size: 71168
-MD5sum: c6854945a007e338a87335260cc4dc93
-SHA1: 30b4a1f1169dae7cf7ad6b2746f324dd38f0c293
-SHA256: 146f1c91c478599fa8afa10459694908d9d018163c13b70eabc00318bb94a51f
+Filename: /io.github.nchugget.sleeknbouncy8_1.2-2+debug_iphoneos-arm.deb
+Size: 123392
+MD5sum: 3a7afc89b85746672abb81ddd2280733
+SHA1: 196d4815ea90a39ba488274a4ff8313677eafb60
+SHA256: 37979eff6a84ce112a01989293ebc65a518a0cdf0a552e32a00f451fc340ad06
 Section: Sleek: Animations
 Description: **THIS VERSION MAY BE BUGGY** Bouncy ported to iOS 8, contact me if you wish to help add new animations to my repo! Added reachability bounce and tried app switcher but failed.
 Author: James Hutchinson <jameshutchinson1337@gmail.com>
